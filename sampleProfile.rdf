@@ -1,0 +1,299 @@
+<rdf:RDF
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:wi="http://xmlns.notu.be/wi#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:tl="http://perl.org/NET/c4dm/timeline.owl#"
+xmlns:days="http://ontologi.es/days#"
+xmlns:po="http://purl.org/ontology/po/"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+<foaf:Person>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/b0073kpf#programme" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+    <rdfs:label>Series 5</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned Series 5 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvbXlsZXMsIGV2ZSAoYWN0b3Ip#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>myles, eve (actor)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned myles, eve (actor) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvYmFycm93bWFuLCBqb2huIChhY3Rvcik#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>barrowman, john (actor)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned barrowman, john (actor) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/services/bbcfour#service" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Service"/>
+    <rdfs:label>BBC Four</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned BBC Four 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/subjects/c3ViamVjdC9yYWRpbw#subject" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Subject"/>
+    <rdfs:label>radio</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned radio 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvZm9zdGVyLCBiZW4gKGZvb3RiYWxsZXIp#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>foster, ben (footballer)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned foster, ben (footballer) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/b00lskw2#programme" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+    <rdfs:label>Torchwood</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned Torchwood 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/genres/drama/crime#genre" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Category"/>
+    <rdfs:label>Crime</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned Crime 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/b006qyyb#programme" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Brand"/>
+    <rdfs:label>Material World</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned Material World 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvZGF2aWQgbGxveWQsIGdhcmV0aCAoYWN0b3Ip#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>david lloyd, gareth (actor)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned david lloyd, gareth (actor) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/places/bG9jYXRpb24va2luZ3N3b29kIHdhcnJlbg#place" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Category"/>
+    <rdfs:label>kingswood warren</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned kingswood warren 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/subjects/VGVmL3N1YmplY3QvdG9yY2h3b29k#subject" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Subject"/>
+    <rdfs:label>torchwood</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned torchwood 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvZnJlZW1hIGFneWVtYW5fVQ#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>freema agyeman (actress)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned freema agyeman (actress) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvbW9udGdvbWVyeSwgbHVjeSAoYWN0b3Ip#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>montgomery, lucy (actor)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned montgomery, lucy (actor) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/services/bbcone#service" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Service"/>
+    <rdfs:label>BBC One</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned BBC One 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/genres/factual/scienceandnature/scienceandtechnology#genre" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Category"/>
+    <rdfs:label>Science and Technology</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned Science and Technology 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/places/bG9jYXRpb24vc3VycmV5#place" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Category"/>
+    <rdfs:label>surrey</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned surrey 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvbWNhbGwsIGthdGUgKHByb2R1Y2VyKQ#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>mcall, kate (producer)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned mcall, kate (producer) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/genres/drama/scifiandfantasy#genre" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Category"/>
+    <rdfs:label>SciFi and Fantasy</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned SciFi and Fantasy 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/services/radio4#service" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Service"/>
+    <rdfs:label>BBC Radio 4</rdfs:label>
+    <wi:weight>5.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned BBC Radio 4 5 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvY29vcGVyLCBxdWVudGluIChiYmMgcmFkaW8gcHJlc2VudGVyKQ#person" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Person"/>
+    <rdfs:label>cooper, quentin (bbc radio presenter)</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned cooper, quentin (bbc radio presenter) 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/subjects/c3ViamVjdC9kaWdpdGFsIHJhZGlv#subject" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Subject"/>
+    <rdfs:label>digital radio</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned digital radio 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+<wi:preference>
+  <wi:WeightedInterest>
+    <wi:topic rdf:resource="http://www.bbc.co.uk/programmes/places/VGVmL2xvY2F0aW9uL2dlbmV2YQ#place" />
+    <rdf:type rdf:resource="http://purl.org/ontology/po/Category"/>
+    <rdfs:label>geneva</rdfs:label>
+    <wi:weight>1.0</wi:weight>
+    <wi:scale>0..54</wi:scale>
+    <wi:reason>You mentioned geneva 1 time(s) in a total of 54 items found.</wi:reason>
+    <wi:context rdf:resource="#default" />
+  </wi:WeightedInterest>
+</wi:preference>
+
+</foaf:Person>
+<wi:Context rdf:about="#default">
+<wi:timePeriod>
+ <days:DayInterval> <!-- i.e. every day, all day -->
+  <tl:at rdf:datatype="http://www.w3.org/2001/XMLSchema#time">00:00:00</tl:at>
+  <tl:end rdf:datatype="http://www.w3.org/2001/XMLSchema#time">23:59:59</tl:end>
+ </days:DayInterval>
+</wi:timePeriod>
+</wi:Context>
+</rdf:RDF>

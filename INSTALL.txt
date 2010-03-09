@@ -1,0 +1,5 @@
+* download tdb 0.8.4 http://sourceforge.net/projects/jena/files/
+* install java 6 (via apt-get)
+* install jruby1.1 (via apt-get)
+* jruby -S gem install json_pure
+
